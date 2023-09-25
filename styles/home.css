@@ -1,0 +1,19 @@
+body {
+    background-color: #9f9fff;
+    font-family: Arial, Verdana, sans-serif;
+}
+h1 {
+    font-size: 38px;
+    font-weight: 700;
+    text-align: center;
+}
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    padding-left: 700px;
+}
